@@ -1,2 +1,26 @@
-# zhulu-galaxy-downloads
-逐鹿银河 Windows 游戏下载与更新 / Compiled game downloads only; no Unity project source.
+# 逐鹿银河 · Windows 下载
+
+这里仅发布可运行的游戏包、更新清单和使用说明，不提供 Unity 工程源码或原始制作素材。
+
+## 下载与启动
+
+请进入 [下载页](https://github.com/mohsunil/zhulu-galaxy-downloads/releases)，下载 Windows 完整 ZIP 和配套 `.zip.sha256`。
+完整解压后运行“群友启动器.exe”，再点击“开始游戏”。不要下载 GitHub 自动生成的 Source code ZIP，它只是这个下载仓库的文件，不是游戏。
+
+## 更新
+
+公开包已预置更新地址；以后使用启动器“检查更新”，确认后下载、校验并安装。也支持群主发包后手动导入、回退上一版；不覆盖本地军表和设置。
+
+旧版启动器若尚未配置地址，可点“更新地址”填入：
+
+`https://raw.githubusercontent.com/mohsunil/zhulu-galaxy-downloads/main/update/windows.json`
+
+首次发布时 v10 即最新构建；检查更新不会凭空产生新版。游戏运行时禁止安装更新。网络无法连接 GitHub 时，可使用可信来源的完整 ZIP 和哈希手动导入。
+
+## 测试版范围
+
+目前支持 50/100 分、不同阵营互联网对战。200 分、同阵营内战、断线重连、房主迁移和公共大厅聊天尚未完成。
+已完成真实云端、本机双进程完整对局验证，尚不能代表两台实体电脑或所有玩家环境均已验收。
+程序未签名；请核对发布页与 SHA256，不要关闭系统安全保护。
+
+下载文件并不代表获得源码或素材的开源授权。
