@@ -1,3 +1,10 @@
+## Windows 安装程序 v12.2.1
+
+[下载安装程序（EXE）](https://github.com/mohsunil/zhulu-galaxy-downloads/releases/download/v12.2.1-windows-20261023/ZhuluGalaxy_Windows_v12.2.1_Setup_20261023.exe)。双击后按中文向导安装，桌面快捷方式会打开自动更新启动器。已有由本安装程序安装的版本可选原目录；旧免安装包请保留并另选空目录安装。安装前先退出游戏和启动器。
+
+已验证正常安装、重装、卸载、旧版本入口切换、拒绝降级，以及快捷方式路径不可写的情况；玩家文件和自定义更新地址保留。后续游戏更新仍使用原有自动更新清单。
+
+
 ## 当前新版：v12.2.1 自动更新启动器版
 
 [下载完整游戏](https://github.com/mohsunil/zhulu-galaxy-downloads/releases/download/v12.2.1-windows-20261023/ZhuluGalaxy_Windows_v12.2.1_AutoUpdate_20261023.zip) · [已有游戏，只更新启动器](https://github.com/mohsunil/zhulu-galaxy-downloads/releases/download/v12.2.1-windows-20261023/ZhuluGalaxy_AutoUpdateLauncher_v12.2.1_20261023.zip) · [发布说明](https://github.com/mohsunil/zhulu-galaxy-downloads/releases/tag/v12.2.1-windows-20261023)
