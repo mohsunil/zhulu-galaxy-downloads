@@ -1,3 +1,12 @@
+## 当前新版：v12.2.1 自动更新启动器版
+
+[下载完整游戏](https://github.com/mohsunil/zhulu-galaxy-downloads/releases/download/v12.2.1-windows-20261023/ZhuluGalaxy_Windows_v12.2.1_AutoUpdate_20261023.zip) · [已有游戏，只更新启动器](https://github.com/mohsunil/zhulu-galaxy-downloads/releases/download/v12.2.1-windows-20261023/ZhuluGalaxy_AutoUpdateLauncher_v12.2.1_20261023.zip) · [发布说明](https://github.com/mohsunil/zhulu-galaxy-downloads/releases/tag/v12.2.1-windows-20261023)
+
+完整包解压后运行“开始游戏.cmd”。已有游戏的玩家先关闭旧启动器，将小包内“群友启动器.exe”复制到原游戏目录覆盖同名启动器。新启动器打开后自动检查；确认一次，自动下载、校验、安装并切换到新版。安装前先保存并退出游戏，建议至少预留 4GB。
+
+本次游戏内容沿用 v12.2，更新了启动器和发布包装。已验证真实公开下载、安装、旧入口解析到新版、保留旧版及玩家测试文件、安装后不重复更新。连接失败可重试或离线导入；仍需当前网络能够访问下载平台。
+
+
 ## 启动器修复（2026-10-23）
 
 检查更新出现连接关闭、发送错误，或更新时出现磁盘空间提示，请先[下载启动器修复包](https://github.com/mohsunil/zhulu-galaxy-downloads/releases/download/v12.2-windows-20261023/ZhuluGalaxy_Launcher_Repair_20261023.zip)。解压后将“群友启动器_修复版.exe”放到原游戏目录，再运行修复版。游戏完整包保持原校验值。
