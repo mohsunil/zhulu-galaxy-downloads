@@ -1,8 +1,8 @@
 {
-  "version": "v12.2-windows-20261023",
-  "buildUtc": "2026-10-23T01:06:36.7180811Z",
-  "packageUrl": "https://github.com/mohsunil/zhulu-galaxy-downloads/releases/download/v12.2-windows-20261023/ZhuluGalaxy_Windows_v12.2_20261023.zip",
-  "sha256": "9bca325d24aaf8099f635c222d9ae51f35d93d6eb7f9d64729835e791c56cba5",
-  "bytes": 631480721,
-  "unpackedBytes": 3196602429
+  "version": "v12.2.1-windows-20261023",
+  "buildUtc": "2026-10-23T03:58:11.9523119Z",
+  "packageUrl": "https://github.com/mohsunil/zhulu-galaxy-downloads/releases/download/v12.2.1-windows-20261023/ZhuluGalaxy_Windows_v12.2.1_AutoUpdate_20261023.zip",
+  "sha256": "8ded92dee01b909f487669293e119e6dd4c3242ab2078cb9bdcbe792e304b669",
+  "bytes": 631484805,
+  "unpackedBytes": 3196610007
 }
